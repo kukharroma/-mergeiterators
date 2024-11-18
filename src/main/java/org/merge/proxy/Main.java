@@ -1,4 +1,4 @@
-package org.fixture.proxy;
+package org.merge.proxy;
 
 import java.util.Arrays;
 import java.util.Iterator;
